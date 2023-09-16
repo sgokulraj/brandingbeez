@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lora', serif;
+}
+
+.high {
+    padding: 20px 100px;
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+    margin-top: 20px;
+}
+
+
+    
